@@ -3,7 +3,7 @@
 我叫赵郑豪，一个除了编程什么都会一点的计算机系学生。
 我的课余时间往往出现在文学社的活动室，爱好是写诗（尤擅七律），读书与谈论空泛的文史哲问题。
 
-![img](https://img-community.csdnimg.cn/images/3ece51d5052540ce8f1a88149cde169d.jpg "#left=500x500")随便挑选了一首最近的作品
+![img](https://github.com/MiyashiroOrin/MiyashiroOrin.github.io/blob/main/poem.jpg"#left=500x500")随便挑选了一首最近的作品
 
 这方面的能力使得我在马克思主义学院的一个互联网+项目中担任文案写作的位置
 会制作一些视频，但是时间不充裕
